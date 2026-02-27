@@ -27,17 +27,17 @@ Tired of choosing between slow agencies and scattered freelancers? I orchestrate
 
 ## Case Studies
 <br>
-{{< article link="/projects/cocoa-black/" cardView=true >}}
+{{< article link="/portfolio/projects/cocoa-black/" cardView=true >}}
 <br>
-{{< article link="/projects/milroys/" cardView=true >}}
+{{< article link="/portfolio/projects/milroys/" cardView=true >}}
 <br>
-{{< article link="/projects/balanced-impact/" cardView=true >}}
+{{< article link="/portfolio/projects/balanced-impact/" cardView=true >}}
 
 <br>
 
 <div class="text-center mt-8">
 
-{{< button href="/projects" target="_self" >}}
+{{< button href="/portfolio/projects" target="_self" >}}
 View all projects
 {{< /button >}}
 
