@@ -1,0 +1,61 @@
+{{- /*
+  SECTION SHORTCODE
+  Parameters:
+    - bg_color: Hex code for background (default: transparent)
+    - font_color: Hex code for text (default: inherit)
+    - bg_img: Path to image in /assets/
+    - padding: CSS padding value (default: 4rem 0)
+  
+  Usage: 
+    {{% section bg_color="#000" %}} Content {{% /section %}}
+*/ -}}
+
+{{ $bg_img := .Get "bg_img" }}
+{{ $bg_resource := "" }}
+{{ if $bg_img }}
+    {{ $bg_resource = resources.Get $bg_img }}
+{{ end }}
+
+<style>
+  .section-wrap-{{ .Ordinal }} {
+    width: 100vw;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    position: relative;
+    
+    /* Colors & Background */
+    background-color: {{ .Get "bg_color" | default "transparent" }};
+    color: {{ .Get "font_color" | default "inherit" }};
+    
+    {{ if $bg_resource }}
+    background-image: url('{{ $bg_resource.RelPermalink }}');
+    background-size: cover;
+    background-position: center;
+    {{ end }}
+
+    padding: {{ .Get "padding" | default "4rem 0" }};
+  }
+
+  .section-inner {
+    max-width: 768px; /* Matching your container preference */
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+  
+  /* Ensure headings inside inherit the font color */
+  .section-wrap-{{ .Ordinal }} h1, 
+  .section-wrap-{{ .Ordinal }} h2, 
+  .section-wrap-{{ .Ordinal }} h3,
+  .section-wrap-{{ .Ordinal }} p {
+    color: {{ .Get "font_color" | default "inherit" }} !important;
+  }
+</style>
+
+<div class="section-wrap-{{ .Ordinal }}">
+  <div class="section-inner">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
+

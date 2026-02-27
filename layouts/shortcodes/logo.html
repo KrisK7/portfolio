@@ -1,0 +1,57 @@
+{{- /*
+  LOGO SHORTCODE
+  Created: 2026-02-25
+  
+  FEATURES:
+  - Asset Rule: Uses Hugo Pipes (resources.Get) to process logos from /assets/.
+  - Reverse Filter Logic: Default state is inverted (White) for Light Mode, 
+    reset to original (Dark) for Dark Mode.
+  - Lightbox Kill: Uses pointer-events-none to prevent Blowfish zoom on click.
+  - Responsive Scaling: Allows mobile/desktop size overrides.
+
+  PARAMETERS:
+    - src:   (Required) Path to logo in /assets/ (e.g. "logos/google.png")
+    - link:  (Optional) URL to the client's website.
+    - alt:   (Optional) Alt text for SEO/Accessibility.
+    - class: (Optional) Additional tailwind classes for the container.
+  
+  USAGE:
+    {{< logo src="logos/client.png" link="https://client.com" alt="Client Name" >}}
+*/ -}}
+
+<style>
+  /* Base state: Normal colors */
+  .client-logo-img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    transition: all 0.3s ease;
+    filter: invert(1) brightness(1.1);
+  }
+
+  /* Dark Mode logic: Invert the colors of the bitmaps */
+  /* This assumes Blowfish adds the 'dark' class to the html tag */
+  .dark .client-logo-img {
+    filter: invert(0) brightness(0.95);
+  }
+</style>
+
+<div class="client-logo-container w-48 h-48 md:w-32 md:h-32 flex items-center justify-center p-2">
+  {{ if .Get "link" }}
+    <a href="{{ .Get "link" }}" target="_blank" rel="noopener">
+  {{ end }}
+  
+{{ $img := resources.Get (.Get "src") }}
+{{ if $img }}
+  <img src="{{ $img.RelPermalink }}" 
+       alt="{{ .Get "alt" }}" 
+       class="client-logo-img pointer-events-none"
+       loading="lazy">
+{{ else }}
+  <img src="{{ .Get "src" | relURL }}" class="client-logo-img">
+{{ end }}
+       
+  {{ if .Get "link" }}
+    </a>
+  {{ end }}
+</div>
