@@ -7,9 +7,11 @@ showAuthor: false
 showPagination: false
 ---
 
-Have a project in mind? Curious about working together? Just want to say hello? Drop me a message and I'll get back to you within 48 hours.
+Have a project in mind?  
+Curious about working together? Just want to say hello?  
+Drop me a message and I'll get back to you within 48 hours.
 
-{{< button href="mailto:hello@designer.com" target="_self" >}}
+{{< button href="mailto:krzysztofskubicki@gmail.com" target="_self" >}}
   {{< icon "envelope" >}} Send email
 {{< /button >}}
 

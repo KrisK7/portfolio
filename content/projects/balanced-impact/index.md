@@ -23,7 +23,7 @@ Brand strategy, visual identity, and UX-focused website redesign.
 
 ## The Challenge
 
-Balanced Impact had the expertise—25 years of it—but not the brand to match. They were a hidden authority: a **B2B consultancy and training partner** helping businesses grow through **a wide range of SEO and Analytics services, Learning & Development, and Deep Advisory**. Yet, their presence was undercut by:
+Balanced Impact had the expertise, 25 years of it, but not the brand to match. They were a hidden authority: a **B2B consultancy and training partner** helping businesses grow through **a wide range of SEO and Analytics services, Learning & Development, and Deep Advisory**. Yet, their presence was undercut by:
 
 - **A basic, inconsistent visual identity** that felt dated and corporate.
 - **No brand guide**, leading to ad-hoc, off-brand communications.
@@ -33,11 +33,11 @@ The core question: **How do we visually and experientially translate 25 years of
 
 ---
 
-## **PROCESS**
+## **The Process**
 
 ### 1. Research & Brand Audit
 I began by dissecting their existing materials and interviewing key team members. The goal was to **extract their unwritten brand essence**. Key insights emerged:
-- Their true value wasn't just in *doing* marketing, but in **teaching and strategizing**—empowering clients.
+- Their true value wasn't just in *doing* marketing, but in **teaching and strategising** empowering clients.
 - Their tone in person was **honest, jargon-free, and friendly**, a stark contrast to their formal existing copy.
 - They competed on **depth of relationship**, not just deliverables.
 
@@ -47,18 +47,21 @@ We developed a design philosophy around:
 
 - **Guidance over instruction** – positioning them as experienced companions
 - **Clarity over complexity** – making advanced concepts accessible
-- **Preparation over promises** – emphasizing their systematic approach
+- **Preparation over promises** – emphasising their systematic approach
 
 ### 3. Brand guidelines: Building the toolkit
 Created a comprehensive brand system that included:
 
 - **Personality:** Honest, friendly, jargon-free, reliably expert
 - **Visual Language:** Bold, vibrant colors inspired by sunrise on mountain peaks
+{{< swatches "#FA3E05" "#0DA57C" "#19336E" >}}
 - **Illustration Style:** Custom cartoon imagery depicting "climbing journeys" with warmth and approachability
 - **Typography & Voice:** Clean, readable type paired with conversational, confident copy
 
 ### 4. UX architecture: Mapping the ascent
 We structured the website as a guided climb:
+
+![ascent illustration](BI-ascent.webp)
 
 **Base Camp (Homepage):** Clear value proposition and immediate trust signals
 **Route Planning (Services):** Interactive paths for Consulting, Training, and Advisory
@@ -77,14 +80,17 @@ Developed wireframes then high-fidelity mockups featuring:
 
 ## **The Solution**
 
-### **A Brand That Speaks Human**
+### A Brand That Speaks Human
+
+![thumb up](BI-social.png)
+
 - **Visual Identity:** A bold, contemporary colour palette paired with custom, metaphorical cartoon illustrations. This visual language disarms and engages, making complex B2B services feel accessible and human.
 - **Brand Voice & Messaging:** Jargon-free, honest copy that positions Balanced Impact as **empowering guides**. Taglines and value propositions directly addressed client anxieties about growth and wasted effort.
 
-### **A Website That Acts as a Consultant**
+### A Website That Acts as a Consultant
 - **UX-Focused Journey:** The site architecture guides visitors from awareness of a problem to the recognition of Balanced Impact as the solution, with multiple pathways to start a conversation (calendly links, quiz embeds, strategy download offers).
 - **Strategic Contact Points:** CTAs are contextually integrated into content, offering relevant next steps (e.g., a "Training Inquiry" button on the L&D page, not just a global header CTA).
-- **Methodology as a Cornerstone:** Their proprietary "Selective Numbers" framework is given a prominent, visual explanation, transforming it from an internal concept into a compelling market differentiator.
+- **Educate and Share:** Presenting a complete offer to non-expert customers sometimes requires the use of technical language, but this is where a built-in interactive glossary comes in handy, ensuring smooth communication.
 
 ---
 
@@ -94,3 +100,5 @@ The new brand and website provided Balanced Impact with a **cohesive, confident 
 - **Clearly articulated their unique value** in a crowded, often vague marketplace.
 - **Created a scalable foundation** with a comprehensive brand guide for all future communications.
 - **Turned their website into a primary business development tool**, structured to educate and convert ideal clients through a considered, persuasive journey.
+
+You can visit the website at [balancedimpact.com](https://balancedimpact.com/)

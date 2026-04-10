@@ -86,10 +86,9 @@ Some projects require more than design alone. Through my curated network of seni
 
 | Specialist | Expertise |
 |------------|-----------|
-| **Frontend Development** | React, Next.js, performant, accessible implementations of your designed experience |
+| **Fullstack Development** | Web 3, WP, Shopify, accessible implementations of your designed experience |
 | **Technical SEO** | Site structure, performance optimisation, and discoverability strategy |
 | **UX Research** | Deep-dive usability testing, user interviews, and validation studies |
-| **Content Strategy** | Messaging architecture, copywriting, and content systems |
 
 **How it works:**
 1. You engage me for design strategy and leadership

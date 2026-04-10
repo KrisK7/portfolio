@@ -21,7 +21,8 @@ showTableOfContents: false
 
 <div id="content"></div>
 {{< section bg_color="#0D0D0D" font_color="#ffffff" >}}
-Tired of choosing between slow agencies and scattered freelancers? I orchestrate the complete product design process: from strategy and UX to full-stack execution. As your single point of contact, I lead a curated team of specialists to deliver focused, high-impact results-efficiently and transparently.
+Tired of choosing between **slow agencies** and **scattered freelancers?**  
+I orchestrate the complete product design process: from **strategy** and **UX** to **full-stack execution**. As your single point of contact, I lead a curated team of specialists to deliver focused, **high-impact results-efficiently** and **transparently**.
 {{< /section >}}
 
 
@@ -56,14 +57,15 @@ My model is flexible. For the design strategy phase, it's you and me. For build-
 {{< /container >}}
 
 {{< center >}}
-Who I've worked with:
+**Our Clients:**
 {{< /center >}}
 
 {{< logo-grid >}}
-  {{< logo src="/img/AT.png" alt="Amati Global Investors" >}}
+  
   {{< logo src="/img/CB.png" alt="Cocoa Black" >}}
   {{< logo src="/img/BI.png" alt="Balanced Impact" >}}
   {{< logo src="/img/ML.png" alt="Milroys of Soho" >}}
+  {{< logo src="/img/AT.png" alt="Amati Global Investors" >}}
 {{< /logo-grid >}}
 
 ---
@@ -71,7 +73,7 @@ Who I've worked with:
 {{< center >}}
 {{< typeit 
   tag=h2
-  speed=60
+  speed=50
   lifeLike=true
 >}}
 Ready to take your product to the next level?
