@@ -1,6 +1,6 @@
 ---
 title: "How I Work"
-description: "The Double Diamond — Structured Rigor, Human-Centered Outcomes"
+description: "The Double Diamond - Structured Rigor, Human-Centered Outcomes"
 layout: "page" 
 showTableOfContents: true
 showAuthor: false
@@ -9,11 +9,11 @@ showPagination: false
 
 ## **Double Diamond**
 
-Great design doesn't emerge from pure creativity, it comes from **structured thinking applied with curiosity and care**. My process follows the Double Diamond framework: a globally recognized approach that balances exploration with focus, creativity with practicality.
+Great design doesn't emerge from pure creativity, it comes from **structured thinking applied with curiosity and care**. My process follows the Double Diamond framework: a globally recognised approach that balances exploration with focus, creativity with practicality.
 
 **Discover. Define. Develop. Deliver.** Four phases, one goal: transforming ambiguity into clarity, and clarity into solutions that actually work.
 
-This isn't a rigid checklist. It's a **flexible compass**—adapting to your project's unique needs while ensuring we never skip what matters."
+This isn't a rigid checklist. It's a **flexible compass** - adapting to your project's unique needs while ensuring we never skip what matters."
 
 ![Double diamond methodology](/img/double-diamond-methodology.png)
 
@@ -32,12 +32,12 @@ This phase is about **listening, learning, and questioning assumptions.** Before
 - Technical and platform constraints review
 
 **Tools I use:**
-FigJam for synthesis, research spreadsheets, note-taking, and yes—AI-assisted analysis to find patterns faster while keeping your data secure through local processing.
+FigJam for synthesis, research spreadsheets, note-taking, and an AI-assisted analysis to find patterns faster while keeping your data secure through local processing.
 
 **You'll receive:**
 - A research synthesis document
 - Shared understanding of user needs and business goals
-- Clear definition of what we know—and what we need to learn
+- Clear definition of what we know and what we need to learn
 
 **My promise:** No assumptions. Just evidence.
 
@@ -51,19 +51,19 @@ FigJam for synthesis, research spreadsheets, note-taking, and yes—AI-assisted 
 Discovery generates possibilities. Definition creates **focus.** Together, we distill everything we've learned into a clear problem statement and success criteria.
 
 **Activities may include:**
-- Synthesizing research into themes and insights
+- Synthesising research into themes and insights
 - Creating user personas or experience maps
 - Defining problem statements and hypotheses
 - Aligning on success metrics (how we'll measure impact)
 - Scope definition and project roadmap
 
 **Tools I use:**
-FigJam for collaborative synthesis, whiteboarding sessions, and dot-voting to prioritize.
+FigJam for collaborative synthesis, whiteboarding sessions, and dot-voting to prioritise.
 
 **You'll receive:**
 - A clear creative brief or strategy document
 - User personas and journey maps
-- Prioritized feature or content roadmap
+- Prioritised feature or content roadmap
 - Shared vocabulary for the rest of the project
 
 **My promise:** We solve the right problem, not just any problem.
@@ -75,7 +75,7 @@ FigJam for collaborative synthesis, whiteboarding sessions, and dot-voting to pr
 *Diverging to generate and test solutions*
 
 **What happens here:**
-Now we get creative. With a clear problem defined, I explore **multiple directions**—sketching, prototyping, and iterating rapidly. This phase is about **quantity before quality**, generating options before narrowing.
+Now we get creative. With a clear problem defined, I explore **multiple directions** sketching, prototyping, and iterating rapidly. This phase is about **quantity before quality**, generating options before narrowing.
 
 **Activities may include:**
 - Sketching and ideation sessions
@@ -103,7 +103,7 @@ Figma for design, FigJam for flows, prototyping tools for testing, and my curate
 *Converging to execute and launch*
 
 **What happens here:**
-This is where ideas become reality. The chosen direction is **refined, documented, and prepared for launch**—whether that means handing off to developers or building with my network.
+This is where ideas become reality. The chosen direction is **refined, documented, and prepared for launch** whether that means handing off to developers or building with my network.
 
 **Activities may include:**
 - High-fidelity UI design (all screens and states)
@@ -130,15 +130,15 @@ Many clients continue our partnership beyond a single project. Whether through *
 
 **Ongoing engagement options:**
 - Design system maintenance and evolution
-- Continuous UX optimization and CRO
+- Continuous UX optimisation and CRO
 - Fractional design director (regular strategic sessions)
 - On-call support for your internal team
 
 ### Human intelect and machine efficiency
 
-This structured approach doesn't mean slow or expensive. My **AI-augmented workflow** accelerates the repetitive parts—synthesizing research, generating variations, documenting components—so we spend more time on strategic thinking and creative problem-solving.
+This structured approach doesn't mean slow or expensive. My **AI-augmented workflow** accelerates the repetitive parts synthesising research, generating variations, documenting components so we spend more time on strategic thinking and creative problem-solving.
 
-And when projects require extra brain power: development, research support, or SEO expertise, I seamlessly integrate my **curated specialist network**—so you get full-service execution without losing the focus of a single point of contact.
+And when projects require extra brain power: development, research support, or SEO expertise, I seamlessly integrate my **curated specialist network** so you get full-service execution without losing the focus of a single point of contact.
 
 ---
 
@@ -151,11 +151,11 @@ It depends on project scope. A focused website redesign might take 6–8 weeks t
   {{< /accordionItem >}}
 
   {{< accordionItem title="Do I see work throughout, or only at the end?"  >}}
-You see work throughout. I believe in **designing in the open**—sharing progress, inviting feedback, and course-correcting early. No big reveals, no surprises.
+You see work throughout. I believe in **designing in the open** sharing progress, inviting feedback, and course-correcting early. No big reveals, no surprises.
   {{< /accordionItem >}}
 
   {{< accordionItem title="What if we need to loop back to an earlier phase?"  >}}
-That's not failure—that's learning. The Double Diamond is iterative by design. Sometimes new information means revisiting Discovery. We stay flexible.
+That's not failure that's learning. The Double Diamond is iterative by design. Sometimes new information means revisiting Discovery. We stay flexible.
   {{< /accordionItem >}}
 
   {{< accordionItem title="How do you handle feedback and revisions?"  >}}
@@ -167,13 +167,6 @@ Absolutely. I've partnered with countless internal development teams. My deliver
   {{< /accordionItem >}}
 {{< /accordion >}}
 
----
+<br>
 
-**Ready to Start the Journey?** 
-
-Whether you're at the beginning of a project or stuck somewhere in the middle, let's talk. Book a 30-minute discovery call—we'll explore where you are and how the Double Diamond can help you move forward.
-
-**[Button: Schedule a Discovery Call]**
-
-*Or email me directly: [your email]*
-{{< cta_block bg_light="#f8f9fa" bg_dark="#1e1e1e" text="Ready to Start the Journey?" >}}
+{{< cta_block bg_light="#f8f9fa" bg_dark="#1e1e1e" subtext="Whether you're at the beginning of a project or stuck somewhere in the middle, let's talk. Book a 30-minute discovery call we'll explore where you are and how the Double Diamond can help you move forward." text="Ready to Start the Journey?" >}}

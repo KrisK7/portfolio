@@ -21,7 +21,7 @@ showTableOfContents: false
 
 <div id="content"></div>
 {{< section bg_color="#0D0D0D" font_color="#ffffff" >}}
-Tired of choosing between slow agencies and scattered freelancers? I orchestrate the complete product design process: from strategy and UX to full-stack execution. As your single point of contact, I lead a curated team of specialists to deliver focused, high-impact results—efficiently and transparently.
+Tired of choosing between slow agencies and scattered freelancers? I orchestrate the complete product design process: from strategy and UX to full-stack execution. As your single point of contact, I lead a curated team of specialists to deliver focused, high-impact results-efficiently and transparently.
 {{< /section >}}
 
 
@@ -79,7 +79,7 @@ Ready to take your product to the next level?
 {{< /center >}}
 
 <div class="text-center mt-8">
-  <a href="/contact/" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+  <a href="/portfolio/contact/" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
     Let's talk
   </a>
 </div>

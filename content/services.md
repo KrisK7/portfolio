@@ -8,14 +8,14 @@ showPagination: false
 
 **Clarity-Driven Design. Systems Thinking. Measurable Outcomes.**
 
-I partner with founders, product leaders, and marketing directors who need more than just pretty screens. I provide **strategic design leadership** for complex digital challenges—from zero-to-one product builds to full brand transformations.
+I partner with founders, product leaders, and marketing directors who need more than just pretty screens. I provide **strategic design leadership** for complex digital challenges, from zero to one product builds to full brand transformations.
 
 My model is flexible: work directly with me for design strategy and execution, or engage my curated network of developers and specialists for end-to-end delivery. Either way, you get **agency-level thinking without the agency overhead.** 
 
 ## **SERVICES**
 
 ### UX Strategy & Product Design
-*For digital products that need to work harder—from SaaS platforms to high-stakes transactional experiences.*
+*For digital products that need to work harder - from SaaS platforms to high-stakes transactional experiences.*
 
 
 
@@ -37,7 +37,7 @@ My model is flexible: work directly with me for design strategy and execution, o
 ---
 
 ### Brand Identity & Digital Presence
-*For established businesses that have outgrown their visual identity—or new ventures starting with intention.*
+*For established businesses that have outgrown their visual identity or new ventures starting with intention.*
 
 **What this solves:**
 - Your brand looks amateur or inconsistent
@@ -46,7 +46,7 @@ My model is flexible: work directly with me for design strategy and execution, o
 
 **What's included:**
 - Brand strategy & positioning workshops
-- Visual identity (logo, color, typography)
+- Visual identity (logo, colour, typography)
 - Brand guidelines & tone of voice
 - Full website design (UX/UI)
 - Illustration or art direction
@@ -80,38 +80,38 @@ My model is flexible: work directly with me for design strategy and execution, o
 
 *Full-Stack Execution When You Need It*
 
-Some projects require more than design alone. Through my curated network of senior specialists, I can orchestrate **end-to-end delivery**—from concept to launch—while you maintain a single point of contact.
+Some projects require more than design alone. Through my curated network of senior specialists, I can orchestrate **end-to-end delivery** - from concept to launch while you maintain a single point of contact.
 
 **Seamlessly integrated partners:**
 
 | Specialist | Expertise |
 |------------|-----------|
 | **Frontend Development** | React, Next.js, performant, accessible implementations of your designed experience |
-| **Technical SEO** | Site structure, performance optimization, and discoverability strategy |
+| **Technical SEO** | Site structure, performance optimisation, and discoverability strategy |
 | **UX Research** | Deep-dive usability testing, user interviews, and validation studies |
 | **Content Strategy** | Messaging architecture, copywriting, and content systems |
 
 **How it works:**
 1. You engage me for design strategy and leadership
 2. I assess and recommend the right specialists for your needs
-3. We coordinate seamlessly—you get unified project management
+3. We coordinate seamlessly - you get unified project management
 4. One point of contact, one vision, one quality standard
 
-*All partners operate under the same values: transparency, sovereignty, and precision.*
+*All partners operate under the same values: transparency, resilience, and precision.*
 
 ---
 
 **A Partnership, Not a Handoff**
 
-**Step 1: Discovery** — We align on goals, users, and success metrics. I learn your business inside out.
+**Step 1: Discovery** - We align on goals, users, and success metrics. I learn your business inside out.
 
-**Step 2: Strategy** — I synthesize findings into clear direction: user flows, sitemaps, design concepts.
+**Step 2: Strategy** - I synthesise findings into clear direction: user flows, sitemaps, design concepts.
 
-**Step 3: Design & Iterate** — I design in the open, sharing work frequently and incorporating feedback.
+**Step 3: Design & Iterate** - I design in the open, sharing work frequently and incorporating feedback.
 
-**Step 4: Validate & Refine** — We test with real users (or I facilitate research through my network).
+**Step 4: Validate & Refine** - We test with real users (or I facilitate research through my network).
 
-**Step 5: Deliver & Support** — You receive complete files, documentation, and a 30-day check-in.
+**Step 5: Deliver & Support** - You receive complete files, documentation, and a 30-day check-in.
 
 *For full-stack projects, development runs parallel or sequential based on your needs.*
 
@@ -121,7 +121,7 @@ Some projects require more than design alone. Through my curated network of seni
 
 **Transparent, Value-Based Partnerships**
 
-I don't bill by the hour. Every project receives a **fixed price based on scope and value delivered**—so you can budget confidently while I focus on outcomes, not timesheets.
+I don't bill by the hour. Every project receives a **fixed price based on scope and value delivered** so you can budget confidently while I focus on outcomes, not timesheets.
 
 **Projects typically range from:**
 - **£500–£1k** for focused work ( brand foundations, digital assets, UX audits)
@@ -142,7 +142,7 @@ I don't bill by the hour. Every project receives a **fixed price based on scope 
 Yes. I offer flexible engagements for early-stage companies, including phased approaches that let you start lean and scale as you grow.
   {{< /accordionItem >}}
 {{< accordionItem title="What if I only need a specific service, not a full redesign?"  >}}
-I offer standalone services including UX audits, design system creation, and brand strategy. Just ask.
+I offer standalone services including UX audits, UI design and brand strategy. Just ask.
   {{< /accordionItem >}}
 {{< accordionItem title="How do you handle development?"  >}}
 You have three options: 
@@ -154,7 +154,7 @@ You have three options:
 Absolutely. Client confidentiality is foundational to my practice.
   {{< /accordionItem >}}
 {{< accordionItem title="What platforms/tools do you use?"  >}}
-Figma, FigJam, Adobe Creative Suite, and open-source tools wherever possible. For development, my network specializes in modern stacks (React, Next.js, WordPress, Shopify).
+Figma, FigJam, Adobe Creative Suite, and open-source tools wherever possible. For development, my network specialistses in modern stacks (React, Next.js, WordPress, Shopify).
   {{< /accordionItem >}}
 {{< /accordion >}}
 
